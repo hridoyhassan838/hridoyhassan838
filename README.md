@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Hridoy Hassan</h1>
 
 <p align="center">
-  💻 Full Stack Web Developer | JavaScript • Vue.js • Node.js • HTML • CSS
+  💻 Full Stack Web Developer | JavaScript • React.js • Node.js • HTML • CSS
 </p>
 
 ---
