@@ -25,7 +25,7 @@ Passionate about **Frontend & Backend Development** using modern technologies.
 - [Main Portfolio](https://hridoyhassan838.github.io)
 - [Landing Page Demo](#) <!-- Replace with actual link -->
 - [Node.js File Reader](#)
-- [Vue.js App](#)
+- [React.js App](#)
 
 ---
 
